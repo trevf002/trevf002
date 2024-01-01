@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trevf002
-- 👀 I’m interested in ... Programing
-- 🌱 I’m currently learning ... Data Analytics
-- 💞️ I’m looking to collaborate on ... Splunk Data Analytics
+- 👀 I’m interested in ... Creating Web Site
+- 🌱 I’m currently learning ... Web Development
+- 💞️ I’m looking to collaborate on ... On any new projects
 - 📫 How to reach me ... fernman@hotmail.com
 
 <!---
