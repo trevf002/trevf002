@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @trevf002
-- 👀 I’m interested in ... Creating Web Site
-- 🌱 I’m currently learning ... Web Development
+- 👋 Hi, My name is Fernando Trevino and I am a CyberSecurity Practioner
+- 👀 I’m interested in creating new ways to conduct data analysis for CyberSecurity
+- 🌱 I’m currently learning...Web Development, UX, and Artificial Intelligence
 - 💞️ I’m looking to collaborate on ... On any new projects
 - 📫 How to reach me ... fernman@hotmail.com
 
